@@ -1,7 +1,8 @@
 # Parallel-And-Distributed-Processing
 This repository contains a curated collection of code samples, experiments, and implementations related to Parallel and Distributed Processing. It explores various paradigms and technologies that leverage concurrency and hardware acceleration to improve performance and efficiency. Key areas covered include:
 
-Parallel Programming: Core concepts and implementations demonstrating concurrent execution on CPUs.
+*Parallel Programming:* 
+Core concepts and implementations demonstrating concurrent execution on CPUs.
 
 Multithreading: Shared-memory parallelism using:
 
